@@ -14,6 +14,10 @@ cask "tick" do
 
   zap trash: [
     "~/Library/Application Support/Tick",
+    "~/Library/Caches/com.yulion.tick",
+    "~/Library/Containers/com.yulion.tick",
+    "~/Library/HTTPStorages/com.yulion.tick",
     "~/Library/Preferences/com.yulion.tick.plist",
+    "~/Library/Saved Application State/com.yulion.tick.savedState",
   ]
 end
