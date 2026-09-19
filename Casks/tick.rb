@@ -1,6 +1,6 @@
 cask "tick" do
-  version "1.1"
-  sha256 "6f57142bad1d393982601c5a3346c3375b66c091ea343d1d4582f932566e552e"
+  version "1.2"
+  sha256 "cd4707e3f2e92a448319810b29307f3fc19164b4d4ebffe5e2724a5601ccf8c4"
 
   url "https://github.com/white-currant/Tick/releases/download/v#{version}/Tick-#{version}.dmg"
   name "Tick"
