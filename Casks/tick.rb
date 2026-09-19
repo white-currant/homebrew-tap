@@ -2,7 +2,7 @@ cask "tick" do
   version "1.2"
   sha256 "cd4707e3f2e92a448319810b29307f3fc19164b4d4ebffe5e2724a5601ccf8c4"
 
-  url "https://github.com/white-currant/Tick/releases/download/v#{version}/Tick-#{version}.dmg"
+  url "https://github.com/white-currant/Tick/releases/download/v#{version}/Tick.dmg"
   name "Tick"
   desc "Aviation-style checklists and reference cards for macOS"
   homepage "https://github.com/white-currant/Tick"
